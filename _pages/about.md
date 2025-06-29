@@ -41,7 +41,7 @@ Education background
 Project experience
 ======
 
-2025 National Health Commission - Directly Affiliated Research Institute (Key Project)
+- 2025 National Health Commission - Directly Affiliated Research Institute (Key Project)
 
 Research on the Smart Nursing and Rehabilitation Robot System:
 
@@ -52,6 +52,37 @@ Driven by Fog Computing and Large Models (Project No. SZ2024HL007).
 Project Role: Principal Investigator
 
 Research Direction: This project centres on developing a digital nursing rehabilitation robot system, driven by fog computing and large models, to assist middle-aged and elderly individuals and chronic disease patients in managing their health proactively. It focuses on patient symptom monitoring and management, using advanced technologies to provide personalized health support and improve the quality of life for these groups. By utilizing fog computing and large models, the project aims to create a digital aid system that can offer real-time monitoring and effective management of patients' symptoms, contributing to better health outcomes.
+
+- 2025–Ministry of Science and Technology, China National Key R&D Program
+
+"Government International Science and Technology Innovation Cooperation Special Project":
+
+Development and Adaptability Research of a Pragmatic Hand Function Intelligent Rehabilitation System for Hemiplegic Patients in Elderly Care and Home Rehabilitation Environments.
+
+Project Role: Task 3 Leader (Ranked 3rd)
+
+Research Direction: This project focuses on developing a pragmatic hand function intelligent rehabilitation system tailored for hemiplegic patients, with the goal of providing personalized and efficient rehabilitation services in elderly care institutions and home environments. The research outcomes aim to enhance the rehabilitation quality of life for hemiplegic patients through the following key tasks:
+
+   - (1) Develop multimodal data fusion technology integrating electroencephalography (EEG) and surface electromyography (sEMG) signals to achieve precise recognition of hand movement intentions, balancing personalization and generalizability.
+   - (2) Design intelligent hand function rehabilitation devices emphasizing portability and user comfort.
+   - (3) Construct a large-scale hand function rehabilitation evaluation model leveraging big data analytics to generate and dynamically adjust personalized rehabilitation plans.
+   - (4) Optimize and evaluate the applicability of the system in elderly care and home rehabilitation settings.
+The project has been successfully submitted and has entered the defense phase, with the defense at the Chinese Ministry of Science and Technology successfully completed on May 15. My role involves leading Task 3 to establish the Rehabilitation Evaluation Large Language Model and dynamic training adjustment framework.
+
+- 2024–Ministry of Science and Technology, China National Key R&D Program
+
+"Science and Technology Innovation 2030–Major Special Project on Prevention and Treatment of Cancer, Cardiovascular and Cerebrovascular Diseases, Respiratory Diseases, and Metabolic Disorders":
+
+Project Role: Core Researcher
+
+Research on Key Technologies and Intervention Strategies for Comprehensive Health Maintenance Throughout the Life Cycle in Plateau Regions Based on Multi-Center Population Cohorts (Project No. 2023ZD0505300).
+
+Research Direction: This project focuses on studying key technologies and intervention strategies for ensuring the health of plateau residents across their entire life cycle, based on multi - center population cohorts. The project aims to develop and validate a set of comprehensive health - assurance technologies and intervention strategies tailored to the unique environmental and health challenges of plateau regions. By integrating data from multi-center population cohorts, the research will enhance our understanding of disease patterns and health - risk factors in plateau populations. This will facilitate the creation of more effective and targeted health-intervention programs, ultimately improving the overall health and quality of life for people living in these areas.
+
+- 2023–Guangdong Provincial Medical Research Fund Project
+
+
+
 
 
 
