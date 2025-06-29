@@ -213,9 +213,7 @@ National-Level Information Design and Planning Projects:
 
 1.The "12th Five-Year" National Informatization Project for Electronic Government Services: "National Health Security Informatization Project". Tasks undertaken: drafting project proposals and feasibility study reports for the Food Safety Risk Assessment Business Application Platform, as well as conducting demand analysis and system design.
 
-The "National Food Safety Information Platform Framework Design" Project of the China Food and Drug Administration. Tasks undertaken: overall design, demand analysis, and system design.
-
-Tasks undertaken: overall design, demand analysis, and system design.
+2.The "National Food Safety Information Platform Framework Design" Project of the China Food and Drug Administration. Tasks undertaken: overall design, demand analysis, and system design.Tasks undertaken: overall design, demand analysis, and system design.
 
 Provincial and Municipal - Level Information System Projects Participated In:
 
