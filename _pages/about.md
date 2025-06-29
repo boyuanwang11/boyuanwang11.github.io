@@ -81,6 +81,50 @@ Research Direction: This project focuses on studying key technologies and interv
 
 - 2023–Guangdong Provincial Medical Research Fund Project
 
+"Research on an Intelligent Dietary Nutrition Assessment and Analysis System Based on Deep Learning and Mobile Devices"
+
+Project Role: Principal Investigator
+
+Research Direction: This project aims to provide dietary nutrition assessment and diet management services for middle-aged and elderly populations as well as patients with chronic diseases by leveraging artificial intelligence (AI) and Internet of Things (IoT) technologies. The system integrates multimodal information such as image recognition, speech recognition, and natural language processing to identify food types and portions through smartphone camera photos, collects user oral feedback, and interprets text-based dietary records. Personalized nutrition assessment and dietary recommendation algorithms are designed based on users' health status, age, gender, and other factors, combined with nutritional knowledge and expert opinions.
+
+- 2023–Shenzhen Stable Support Plan General Project, Basic Research Special Program (Natural Science Foundation):
+
+"Research on Intelligent Food Nutrition Analysis Model Based on Large Models"
+
+Project Role: Core Team Member (Second)
+
+Research Direction: This research project is devoted to developing a food nutrition - analysis model based on multi - modal large models. We fine - tune pre - trained models using LoRA and other techniques, integrating food images, recipes, and nutrition - component info. Our goals are to enhance the food nutrition reasoning algorithm for personalized nutrition advice based on meal photos and user prompts, refine the evaluation - indicator system, and conduct preliminary tests. We also focus on CL research and propose a CL - based solution for adapting to new food types. I'm in of charge constructing visual-multi-modal AI algorithms and assessing model performance.
+
+- 2021–Guangdong Province Intelligent Multi - point Triggered Disease Prevention and Control Early Warning System Project Construction Engineering
+
+China Top 10 Digital Health Demonstration Case System Construction Experience:
+
+Project Role: Technical Expert
+
+Research Direction: From November 2020 to December 2021, I was assigned to the Guangdong Provincial Center for Disease Control and Prevention as a core technical member to participate in the construction of the Guangdong Intelligent Multi-point Triggered Early Warning Information System (YuezhengnumLetter [2020] No. 727, a key Guangdong Provincial Government project with an investment of 80 million yuan). I was responsible for designing the COVID-19 AI - based early warning model and carried out the development of the AI - powered multi - point triggered intelligent COVID - 19 early warning function and the multi - point triggered infectious disease early warning system. The Guangdong Provincial Center for Disease Control and Prevention specially commended me for my work. The project was selected as one of China's Top Ten Digital Health Demonstration Cases of 2022 by the National Health Commission. As a main contributor, I designed a multi - point triggered information early warning system for 41 types of diseases, including COVID - 19, viral infectious diarrhea, pneumonia of unknown etiology, dengue fever, clonorchiasis, influenza, Japanese encephalitis, avian influenza, food - borne diseases, hand - foot - mouth disease, plague, filariasis, soil - transmitted parasitic diseases, and other vector - borne infectious diseases, which was the first of its kind in China.
+
+- 2019–Municipal-Level Research Project
+
+"Research on Core Technologies for Automatic Monitoring and Identification of Foodborne Diseases in Key Populations and Machine Learning Models for Early Outbreak Prediction" (Project No. 2019B1106).
+
+Project Role: Principal Investigator
+
+Research Direction: This study is based on the municipal regional health information platform. It focuses on automatically monitoring and identifying sporadic and outbreak foodborne diseases among key populations. It aims to automatically collect relevant disease information and integrate it with various environmental and social factors of the city, such as population, environment, school hygiene, public place hygiene, and food pollution. Then, it will use machine learning to build a large-scale prediction model for foodborne disease outbreaks among key populations, tailored to the city's geographical and social environment.
+
+- 2017– Guangdong Provincial and Municipal Government Regional Information Platform Disease Prevention and Control System Construction Project
+
+Project Role: Key Contributor
+
+Research Direction: The total project scale is nearly 100 million yuan (a PPP project), involving multiple departments such as health and disease control. I am the key contributor in the疾控 system construction project. I led the framework design of the disease active monitoring system based on the municipal regional health information platform. The design concept, first proposed in a city in Guangdong Province, relies on the regional information platform to automatically obtain millions of medical case records from hospitals and community health service centers across the city. It extracts symptom monitoring information for active surveillance, enhancing the efficiency and timeliness of disease monitoring. This provides an innovative foundation for disease prediction in the Guangdong Province Smart Multi - point Triggered Disease Prevention and Control Early - warning System project and represents an application innovation for the Guangdong regional health information system.
+
+
+
+
+
+
+
+
+
 
 
 
