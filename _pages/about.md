@@ -1,56 +1,43 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Curriculum Vitae (CV)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Distinguished Professor
+- Director, Medical Artificial Intelligence Innovation Center, Zhuhai Fudan Innovation Institute (Local Collaborative Institution of Fudan University)
+- Distinguished Professor, Department of Laboratory Medicine, Shanghai Mental Health Center
+- Council Member of the Medicinal and Food Optimization Committee and Deputy Secretary-General of the Spatial Statistics Division, Chinese Association for Applied Statistics (CAAS)
+- AI Review Expert, National Institute of Hospital Administration, China
+- Postdoctoral Fellow, City University of Hong Kong
+- External AI Expert, iFLYTEK Healthcare Technology Co., Ltd.
+- Member & Senior Ethics Reviewer, Municipal Medical Ethics Review Committee, Beijing
+- Chief Technology Officer & Chief Scientist, GemSpark (Shenzhen) Artificial Intelligence Technology Co., Ltd.
+- PhD in Artificial Intelligence, Senior Engineer
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Email: boyuanwang@fudan-zhuhai.org.cn
 
-A data-driven personal website
+Academic Research Profile:
+
+Dr.Wang's main research directions are: (1) Artificial intelligence large language models; (2) Interdisciplinary integration of medicine with management and engineering for smart healthcare; (3) Machine learning and multi-modal LLMs; (4) AI-driven intelligent multi-source early warning systems for diseases. He has served as principal investigator or core team member in a total of six national and provincial/municipal-level research projects.
+
+Currently, Dr.Wang is serving as Principal Investigator for the 2025 National Health Commission-National Institute of Hospital Administration (NIHA) Key Project titled "Research and Application of Fog Computing and Large Model-Driven Smart Nursing and Rehabilitation Robotics Systems: Digital Assistance System for Proactive Healthy Lifestyle Management" (Project No. SZ2024HL007). Additionally, he is a key technical contributor to the 2024 National Key R&D Program under the Science and Technology Innovation 2030-National Science and Technology Major Project (Project No. 2023ZD0505300).
+
+In terms of academic publications, Dr.Wang has authored or co-authored over 20 peer-reviewed articles in high-impact journals such as Bioscience Trends, Journal of Medical Informatics, and Chinese Journal of Health Informatics and Management. Among these, four are first-author or corresponding-author publications in JCR Q1 SCI-indexed journals, including one accepted in npj Digital Medicine (Impact Factor = 12.7), a leading journal in the field of digital medicine and part of the Nature Portfolio. He has also contributed to three academic monographs and participated in the development of multiple information systems, supporting partner institutions in securing 11 software copyrights .In applied research, Dr.Wang played a key technical role in the design and implementation of the Guangdong Province Intelligent Multi-source Early Warning Information System (No. Yue Zheng Shu Han [2020] 727), a provincial government key project with a total investment of RMB 80 million during the pandemic. The system established a pioneering nationwide AI-based multi-source disease surveillance and early warning framework covering 41 categories of diseases and was recognized by the National Health Commission in 2022 as one of China’s Top Ten Digital Health Demonstration Cases.
+
+Dr.Wang's technical expertise spans methodologies and algorithms in machine learning, deep learning, large language models (LLMs), and domain-specific medical modeling. As first author, his recent study titled "DeepSeek and Quen in Healthcare: Pioneering Multimodal Large Language Models for Next Generation Disease Prediction," focusing on fine-tuning large language models in healthcare applications, has been accepted by the 10th International Conference on Computer and Communication Systems (ICCCS 2025), where it received the Young Scientist Award. He has also demonstrated international collaboration experience through transnational research projects under the Belt and Road Initiative, contributing to global scientific cooperation and knowledge exchange.
+
+Education background
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 2024.12-2025.4：City University of Hong Kong  Department of Biomedical Sciences  Artificial Intelligence and Biomedical Interdisciplinary Research   Postdoctoral fellow
+- 2021.9-2024.8：Macau University of Science and Technology   Department of Computer Science   Artificial Intelligence   Ph.D
+- 2007.9-2009.7：Beijing Jiaotong University   School of Software   Software Engineering   Master
+                 Group-T Leuven, Belgium   Digital media   E-media   Jointly Cultivated Master
+- 2003.9-2007.7：Beijing Forestry University   School of Information Science and Technology   Computer Science and Technology  Bachelor
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
