@@ -38,6 +38,21 @@ Education background
                  Group-T Leuven, Belgium   Digital media   E-media   Jointly Cultivated Master
 - 2003.9-2007.7：Beijing Forestry University   School of Information Science and Technology   Computer Science and Technology  Bachelor
 
+Project experience
+======
+
+2025 National Health Commission - Directly Affiliated Research Institute (Key Project)
+
+Research on the Smart Nursing and Rehabilitation Robot System:
+
+Research and Application of a Digital Intelligent Assistance System for Active Healthy Lifestyles
+
+Driven by Fog Computing and Large Models (Project No. SZ2024HL007).
+
+Project Role: Principal Investigator
+
+Research Direction: This project centres on developing a digital nursing rehabilitation robot system, driven by fog computing and large models, to assist middle-aged and elderly individuals and chronic disease patients in managing their health proactively. It focuses on patient symptom monitoring and management, using advanced technologies to provide personalized health support and improve the quality of life for these groups. By utilizing fog computing and large models, the project aims to create a digital aid system that can offer real-time monitoring and effective management of patients' symptoms, contributing to better health outcomes.
+
 
 
 
