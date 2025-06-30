@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: https://boyuanwang11.github.io/markdown/
 title: "Markdown"
 author_profile: true
 redirect_from: 
