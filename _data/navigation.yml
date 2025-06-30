@@ -9,16 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://boyuanwang11.github.io/publications/
 
   - title: "Research Directions"
-    url: /portfolio/
+    url: https://boyuanwang11.github.io/portfolio/
     
   - title: "Research Team"
-    url: /teaching/    
+    url: https://boyuanwang11.github.io/teaching/    
 
   - title: "Educational Background"
-    url: /talks/   
+    url: https://boyuanwang11.github.io/talks/   
     
         
  # - title: "Blog Posts"
