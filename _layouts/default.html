@@ -5,16 +5,21 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js{% if site.site_theme == 'dark' %} data-theme="dark"{% endif %}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+
+    <div style="margin: 20px 0; font-size: 16px; color: #333; font-weight: 600;">
+      已有 <span id="busuanzi_value_site_pv"></span> 位访客<br>
+      本文阅读量: <span id="busuanzi_value_page_pv"></span>
+    </div>
 
     {{ content }}
 
@@ -25,7 +30,19 @@ layout: compress
       </footer>
     </div>
 
-    {% include scripts.html %}
+    <script>
+      function initBusuanzi() {
+        if (typeof busuanzi !== 'undefined') {
+          document.getElementById('busuanzi_value_site_pv').innerText = busuanzi.sitePV();
+          document.getElementById('busuanzi_value_page_pv').innerText = busuanzi.pagePV();
+        } else {
+          setTimeout(initBusuanzi, 300);
+        }
+      }
+      window.onload = initBusuanzi;
+    </script>
 
+    {% include scripts.html %}
   </body>
 </html>
+
