@@ -1,5 +1,5 @@
 ---
-title: "English Journal Papers"
+title: "English Journal Papers"
 collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
