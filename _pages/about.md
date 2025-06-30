@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://boyuanwang1.github.io/
 title: "Curriculum Vitae (CV)"
 author_profile: true
 redirect_from: 
