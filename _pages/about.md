@@ -31,60 +31,39 @@ Email: boyuanwang@fudan-zhuhai.org.cn 微信: wangaijia777
 - 2007.9-2009.7：北京某211知名大学   软件学院   数字媒体   软件工程   硕士   
 - 2003.9-2007.7：北京某211知名大学   信息学院  计算机科学与技术学士 本科
 
-Project experience
+工作经历
 ======
 
-- 2025 National Health Commission - Directly Affiliated Research Institute (Key Project)
+- 2025.7月至今北京市属某重点高校大学 人工智能与计算机学院 特聘教授
+  
+- 2024.8月至今 复旦大学科研机构（地方合作机构）某复旦创新研究院 医学人工智能科技创新中心主任
 
-Research on the Smart Nursing and Rehabilitation Robot System:
+负责建立研究院内的人工智能交叉学科科研创新平台。促进复旦大学的高水平科研成果向实际应用转化，并在此过程中推动人工智能与医学领域的深度融合。工作计划包括：
 
-Research and Application of a Digital Intelligent Assistance System for Active Healthy Lifestyles
+   - (1) AI技术创新与开发：指导团队开发新的AI算法和技术，利用多模态大模型（LLM）进行疾病诊断，提高诊断的准确性和效率，解决大模型领域中的复杂问题，如AI疾病诊断、治疗规划、个性化医疗等。
+   - (2) 科研成果转化：将复旦大学在人工智能与医学领域的最新研究成果转化为实用技术，应用于医疗实践，以提高医疗服务的质量和效率。
+   - (3) 跨学科合作与课题申报：促进不同学科之间的交流与合作，包括计算机科学、人工智能、生物医学工程、临床医学等，形成多学科交叉的研究团队，申报课题。
 
-Driven by Fog Computing and Large Models (Project No. SZ2024HL007).
+- 2024年起-至今 国家卫生健康委员会下属某研究所协作研究人员，人工智能评审专家：
 
-Project Role: Principal Investigator
+参与了多项国家重点研发科研项目申报和管理等工作。研究方向包括：
 
-Research Direction: This project centres on developing a digital nursing rehabilitation robot system, driven by fog computing and large models, to assist middle-aged and elderly individuals and chronic disease patients in managing their health proactively. It focuses on patient symptom monitoring and management, using advanced technologies to provide personalized health support and improve the quality of life for these groups. By utilizing fog computing and large models, the project aims to create a digital aid system that can offer real-time monitoring and effective management of patients' symptoms, contributing to better health outcomes.
+   - (1) 研究如何有效管理老年患者的多种疾病，致力于研究如何有效地管理老年患者的多种疾病。
+   - (2) 多模态数据分析：结合影像学、基因组学等多种数据类型，利用深度学习技术来揭示疾病的潜在机制。
+   - (3) 大型语言模型(LLM)，用于生成个性化的治疗计划和健康建议，LLM模型训练理解复杂的医疗文本和患者病历，生成医疗问答信息。
+   - (4) 情境感知系统：通过物联网(IoT)设备收集数据，了解患者的日常生活情况，并据此调整治疗方案。
+   - (5) 国家重点研发计划项目《老年多病共存综合管理技术和示范研究》
+   - (6) 国家重点研发计划项目《重症护理智能机器人系统研发》，参与研究重症监护病房中智慧拍背排痰机器人的设计、开发与应用，基于AI技术，以减轻医护人员的工作负担，提高患者护理质量。
+   - (7) 国家重点研发计划项目《临床实验室检验新技术与参考系统建立应用研究》，参与管理项目。该项目主要工作包括构建检验互认平台，建立检验知识图谱，通过从大量文献和数据库中提取信息，构建一个包含临床检验标准、疾病关系等信息的知识图谱（KG）。利用这些技术来提高检验结果的准确性和可靠性。
+   - (8) 国家重点研发计划项目《老年人功能减退膳食干预与评价方案应用示范》设计连续服务中心标准
 
-- 2025–Ministry of Science and Technology, China National Key R&D Program
+- 2021年9月--2024年8月（攻读海外全日制博士期间）：
 
-"Government International Science and Technology Innovation Cooperation Special Project":
+参与澳门高等院校人工智能与医学大数据实验室团队相关科研攻关、全国新冠疫情预测报告成员。
 
-Development and Adaptability Research of a Pragmatic Hand Function Intelligent Rehabilitation System for Hemiplegic Patients in Elderly Care and Home Rehabilitation Environments.
+- 2020.10--2021.12 广东省疾病预防控制中心   多点触发信息化专班   技术专家
 
-Project Role: Task 3 Leader (Ranked 3rd)
-
-Research Direction: This project focuses on developing a pragmatic hand function intelligent rehabilitation system tailored for hemiplegic patients, with the goal of providing personalized and efficient rehabilitation services in elderly care institutions and home environments. The research outcomes aim to enhance the rehabilitation quality of life for hemiplegic patients through the following key tasks:
-
-   - (1) Develop multimodal data fusion technology integrating electroencephalography (EEG) and surface electromyography (sEMG) signals to achieve precise recognition of hand movement intentions, balancing personalization and generalizability.
-   - (2) Design intelligent hand function rehabilitation devices emphasizing portability and user comfort.
-   - (3) Construct a large-scale hand function rehabilitation evaluation model leveraging big data analytics to generate and dynamically adjust personalized rehabilitation plans.
-   - (4) Optimize and evaluate the applicability of the system in elderly care and home rehabilitation settings.
-The project has been successfully submitted and has entered the defense phase, with the defense at the Chinese Ministry of Science and Technology successfully completed on May 15. My role involves leading Task 3 to establish the Rehabilitation Evaluation Large Language Model and dynamic training adjustment framework.
-
-- 2024–Ministry of Science and Technology, China National Key R&D Program
-
-"Science and Technology Innovation 2030–Major Special Project on Prevention and Treatment of Cancer, Cardiovascular and Cerebrovascular Diseases, Respiratory Diseases, and Metabolic Disorders":
-
-Project Role: Core Researcher
-
-Research on Key Technologies and Intervention Strategies for Comprehensive Health Maintenance Throughout the Life Cycle in Plateau Regions Based on Multi-Center Population Cohorts (Project No. 2023ZD0505300).
-
-Research Direction: This project focuses on studying key technologies and intervention strategies for ensuring the health of plateau residents across their entire life cycle, based on multi - center population cohorts. The project aims to develop and validate a set of comprehensive health - assurance technologies and intervention strategies tailored to the unique environmental and health challenges of plateau regions. By integrating data from multi-center population cohorts, the research will enhance our understanding of disease patterns and health - risk factors in plateau populations. This will facilitate the creation of more effective and targeted health-intervention programs, ultimately improving the overall health and quality of life for people living in these areas.
-
-- 2023–Guangdong Provincial Medical Research Fund Project
-
-"Research on an Intelligent Dietary Nutrition Assessment and Analysis System Based on Deep Learning and Mobile Devices"
-
-Project Role: Principal Investigator
-
-Research Direction: This project aims to provide dietary nutrition assessment and diet management services for middle-aged and elderly populations as well as patients with chronic diseases by leveraging artificial intelligence (AI) and Internet of Things (IoT) technologies. The system integrates multimodal information such as image recognition, speech recognition, and natural language processing to identify food types and portions through smartphone camera photos, collects user oral feedback, and interprets text-based dietary records. Personalized nutrition assessment and dietary recommendation algorithms are designed based on users' health status, age, gender, and other factors, combined with nutritional knowledge and expert opinions.
-
-- 2023–Shenzhen Stable Support Plan General Project, Basic Research Special Program (Natural Science Foundation):
-
-"Research on Intelligent Food Nutrition Analysis Model Based on Large Models"
-
-Project Role: Core Team Member (Second)
+疫情期间，作为技术专家和核心技术骨干，抽调省疾控参与建设了广东省智慧化多点触发预警信息系统（粤政数函[2020]727号，广东省政府重点工程，项目总投入8000万元），参与整体项目管理、负责人工智能预警预测模块工作。工程设计实现了基于人工智能的疾病多点触发智慧化预警体系，该体系覆盖了包括41类疾病，并成为全国首个此类预警系统，省疾病预防控制中心专门对我负责的工作进行了表彰，该工程荣获国家卫生健康委2022年中国十大数字健康示范案例之一。
 
 Research Direction: This research project is devoted to developing a food nutrition - analysis model based on multi - modal large models. We fine - tune pre - trained models using LoRA and other techniques, integrating food images, recipes, and nutrition - component info. Our goals are to enhance the food nutrition reasoning algorithm for personalized nutrition advice based on meal photos and user prompts, refine the evaluation - indicator system, and conduct preliminary tests. We also focus on CL research and propose a CL - based solution for adapting to new food types. I'm in of charge constructing visual-multi-modal AI algorithms and assessing model performance.
 
