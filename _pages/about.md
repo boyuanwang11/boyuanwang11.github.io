@@ -24,13 +24,12 @@ Email: boyuanwang@fudan-zhuhai.org.cn 微信: wangaijia777
 
 参与了多项国家重点研发科研项目申报和管理工作。研究方向涵盖医疗大模型 (LLMs) 、联邦学习、持续学习、智能可穿戴系统、计算机视觉等前沿领域。主持或参与课题国家、省市级科研课题8项，2025年大模型驱动的主动健康类项目-项目负责人，2024年国家重点研发项目-科技创新2030国家科技重大专项（2023ZD0505300）项目/课题骨干。作为答辩人完成国家重点研发计划项目课题一《重症护理智能机器人系统方案设计》（2021YFC0122701）的课题结题答辩。以第一作者/通讯作者/共同作者等身份在全球电子医学顶尖期刊（Nature portfolio系列 , 中科院一区，影响因子IF=15，医学Top期刊）等SCI期刊、会议和中文期刊上录用共计38余篇 。参与了多项国家重点研发科研项目管理和申报等工作。研发并部署了基于统计机器学习技术的疫情防控预警模型，设计了广东省新型冠状病毒、不明原因肺炎等41类预防控制疾病的智慧化多点触发预警体系，为全国首个，参与的智慧化多点触发系统项目在2022年度被国家卫生健康委员会遴选为中国十大数字健康示范案例之一。近年专注于学生培养，培养多名学生作为第一作者成功发表JCR Q1区的SCI论文（辅导大三学生发表影响因子>5的一作SCI论文），在2025 年第十届计算机与通信系统国际会议上被评选为青年科学家。
 
-Education background
+教育背景
 ======
-- 2024.12-2025.4：City University of Hong Kong  Department of Biomedical Sciences  Artificial Intelligence and Biomedical Interdisciplinary Research   Postdoctoral fellow
-- 2021.9-2024.8：Macau University of Science and Technology   Department of Computer Science   Artificial Intelligence   Ph.D
-- 2007.9-2009.7：Beijing Jiaotong University   School of Software   Software Engineering   Master
-                 Group-T Leuven, Belgium   Digital media   E-media   Jointly Cultivated Master
-- 2003.9-2007.7：Beijing Forestry University   School of Information Science and Technology   Computer Science and Technology  Bachelor
+- 2024.12-2025.4：香港某大学  Department of Biomedical Sciences  Department of Biomedical Sciences   博士后
+- 2021.9-2024.8：澳门某大学   Department of Computer Science   人工智能   博士
+- 2007.9-2009.7：北京某211知名大学   软件学院   数字媒体   软件工程   硕士   
+- 2003.9-2007.7：北京某211知名大学   信息学院  计算机科学与技术学士 本科
 
 Project experience
 ======
