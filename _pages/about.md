@@ -44,6 +44,8 @@ Email: boyuanwang@fudan-zhuhai.org.cn 微信: wangaijia777
    - (2) 科研成果转化：将复旦大学在人工智能与医学领域的最新研究成果转化为实用技术，应用于医疗实践，以提高医疗服务的质量和效率。
    - (3) 跨学科合作与课题申报：促进不同学科之间的交流与合作，包括计算机科学、人工智能、生物医学工程、临床医学等，形成多学科交叉的研究团队，申报课题。
 
+
+
 - 2024年起-至今 国家卫生健康委员会下属某研究所协作研究人员，人工智能评审专家：
 
 参与了多项国家重点研发科研项目申报和管理等工作。研究方向包括：
@@ -65,135 +67,131 @@ Email: boyuanwang@fudan-zhuhai.org.cn 微信: wangaijia777
 
 疫情期间，作为技术专家和核心技术骨干，抽调省疾控参与建设了广东省智慧化多点触发预警信息系统（粤政数函[2020]727号，广东省政府重点工程，项目总投入8000万元），参与整体项目管理、负责人工智能预警预测模块工作。工程设计实现了基于人工智能的疾病多点触发智慧化预警体系，该体系覆盖了包括41类疾病，并成为全国首个此类预警系统，省疾病预防控制中心专门对我负责的工作进行了表彰，该工程荣获国家卫生健康委2022年中国十大数字健康示范案例之一。
 
-Research Direction: This research project is devoted to developing a food nutrition - analysis model based on multi - modal large models. We fine - tune pre - trained models using LoRA and other techniques, integrating food images, recipes, and nutrition - component info. Our goals are to enhance the food nutrition reasoning algorithm for personalized nutrition advice based on meal photos and user prompts, refine the evaluation - indicator system, and conduct preliminary tests. We also focus on CL research and propose a CL - based solution for adapting to new food types. I'm in of charge constructing visual-multi-modal AI algorithms and assessing model performance.
+- 科研及工程项目经历
 
-- 2021–Guangdong Province Intelligent Multi - point Triggered Disease Prevention and Control Early Warning System Project Construction Engineering
+- 2025年 国家卫生健康委员会下属研究所 <重大项目，厅局级>
 
-China Top 10 Digital Health Demonstration Case System Construction Experience:
+  大模型与主动健康生活方式数智辅助研究类项目一项
 
-Project Role: Technical Expert
+  项目负责人
 
-Research Direction: From November 2020 to December 2021, I was assigned to the Guangdong Provincial Center for Disease Control and Prevention as a core technical member to participate in the construction of the Guangdong Intelligent Multi-point Triggered Early Warning Information System (YuezhengnumLetter [2020] No. 727, a key Guangdong Provincial Government project with an investment of 80 million yuan). I was responsible for designing the COVID-19 AI - based early warning model and carried out the development of the AI - powered multi - point triggered intelligent COVID - 19 early warning function and the multi - point triggered infectious disease early warning system. The Guangdong Provincial Center for Disease Control and Prevention specially commended me for my work. The project was selected as one of China's Top Ten Digital Health Demonstration Cases of 2022 by the National Health Commission. As a main contributor, I designed a multi - point triggered information early warning system for 41 types of diseases, including COVID - 19, viral infectious diarrhea, pneumonia of unknown etiology, dengue fever, clonorchiasis, influenza, Japanese encephalitis, avian influenza, food - borne diseases, hand - foot - mouth disease, plague, filariasis, soil - transmitted parasitic diseases, and other vector - borne infectious diseases, which was the first of its kind in China.
+  研究方向：本项目旨在开发一种基于雾计算与大模型驱动的数字化护理康复机器人系统，以协助中老年人群及慢性病患者主动进行健康管理。该系统聚焦于患者的症状监测与管理，通过融合先进信息技术，提供个性化的健康支持服务，从而提升目标人群的生活质量。项目利用雾计算和大模型的技术优势，构建具备实时监测与高效管理能力的数字化辅助系统，助力实现更优的健康干预效果。
 
-- 2019–Municipal-Level Research Project
+- 2024年 中国科技部 <国家重点研发项目，国家级>
 
-"Research on Core Technologies for Automatic Monitoring and Identification of Foodborne Diseases in Key Populations and Machine Learning Models for Early Outbreak Prediction" (Project No. 2019B1106).
+“科技创新2030——癌症、心脑血管、呼吸和代谢性疾病防治研究国家科技重大专项：
 
-Project Role: Principal Investigator
+基于多中心人群队列的高原全周期健康保障关键技术与干预策略研究（2023ZD0505300）
 
-Research Direction: This study is based on the municipal regional health information platform. It focuses on automatically monitoring and identifying sporadic and outbreak foodborne diseases among key populations. It aims to automatically collect relevant disease information and integrate it with various environmental and social factors of the city, such as population, environment, school hygiene, public place hygiene, and food pollution. Then, it will use machine learning to build a large-scale prediction model for foodborne disease outbreaks among key populations, tailored to the city's geographical and social environment.
+项目/课题骨干
 
-- 2017– Guangdong Provincial and Municipal Government Regional Information Platform Disease Prevention and Control System Construction Project
+研究方向：本研究基于多中心人群队列，旨在构建高原全周期健康数据库，通过整合多民族、多海拔人群的基因组学、代谢组学及环境暴露数据，揭示高原病发生机制及生物标志物。同时，依托人工智能与大数据技术开发动态监测系统，建立风险预警模型，推动健康管理模式从被动应对向主动干预转型；并结合高压氧预适应等前沿技术，优化个性化干预方案，提升人体高原适应能力。在此基础上，提出覆盖出行前、中、后全周期的健康管理策略，涵盖适应性训练、应急干预及康复支持，并推动政策标准化建设。通过多学科融合，研发抗缺氧装备与智能系统，促进技术临床转化。最终，研究成果将为高原居民、游客及特殊作业群体提供健康保障，助力高原医学从疾病治疗向健康促进转型，服务可持续发展与全球低氧环境研究需求。
 
-Project Role: Key Contributor
+- 2023 年广东省医学科研基金项目
 
-Research Direction: The total project scale is nearly 100 million yuan (a PPP project), involving multiple departments such as health and disease control. I am the key contributor in the疾控 system construction project. I led the framework design of the disease active monitoring system based on the municipal regional health information platform. The design concept, first proposed in a city in Guangdong Province, relies on the regional information platform to automatically obtain millions of medical case records from hospitals and community health service centers across the city. It extracts symptom monitoring information for active surveillance, enhancing the efficiency and timeliness of disease monitoring. This provides an innovative foundation for disease prediction in the Guangdong Province Smart Multi - point Triggered Disease Prevention and Control Early - warning System project and represents an application innovation for the Guangdong regional health information system.
+基于深度学习和移动设备的智慧化膳食营养评估分析系统研究
 
-Research Achievements
--
-English Journal Papers:
-- (1)Wang, B.*, Zheng, Y., Han, X., Kong, L., Xiao, G.*, Xiao, Z.*, & Chen, S.*(in press). A systematic literature review on integrating AI-powered smart glasses into digital health management for proactive healthcare solutions. npj Digital Medicine. (Accepted May 12, 2025, SCI, JCR Q1, IF=12.4, First Author & Corresponding Author)
-- (2)Wang, B., Xu, L., Wang, J., Zhang, W., Ramiah, H., Fu, Z., Wang, W., & Bao, K. (2025). DeepSeek and Quen in Healthcare: Pioneering Multimodal Large Language Models for Next-Generation Disease Prediction. In 2025 The 10th International Conference on Computer and Communication Systems (Accepted). (EI Conference Paper, First Author)
-- (3)Tianshuo Zhou, & Boyuan Wang*. (2025). Cross Paradigm Fusion of Federated and Continual Learning on Multilayer Perceptron Mixer Architecture for Incremental Thoracic Infection Diagnosis. Scientific Reports. (Peer review, SCI, JCR Q2, IF=3.8, Corresponding Author)
-- (4)Yining Huang, Keke Tang, Meilian Chen, & Boyuan Wang. (2024). A comprehensive survey on evaluating large language model applications in the medical industry. arXiv preprint arXiv:2404.15777v4.
-- (5)Boyuan Wang*, Hongsen Liang, Peilin Wu, Zhaojun Ding, Rongyang Li, & Shanji Chen. (2025). Research on rehabilitation - oriented large language models: The creation of AHR - LLM for enhanced medical QA with LoRA fine - tuning techniques. Manuscript completed and planned for submission to npj Digital Medicine. (SCI Journal)
-- (6)Wang, Boyuan, et al. (2024). The Digital Transformation of Nursing Practice: An Analysis of Advanced IoT Technologies and Smart Nursing Systems. Frontiers in Medicine. 11. 1471527. 10.3389/fmed.2024.1471527 (SCI, JCR Q1, IF=3.1, First Author & Corresponding Author)
-- (7)Wang, Boyuan, et al. Recent advances in predicting acute mountain sickness: from multidimensional cohort studies to cutting-edge model applications. Frontiers in Physiology, 2024, 15: 1397280. (SCI, JCR Q2, IF=3.367, First Author)
-- (8)Liu, Y., & Wang, B.* (2025). Advanced applications in chronic disease monitoring using IoT mobile sensing device data, machine learning algorithms and frame theory: a systematic review. Frontiers in Public Health, 13, 1510456. (SCI, JCR Q2, IF=3.0, Corresponding Author)
-- (9)Wang, Boyuan, et al. (2024). Advancing Healthcare through Mobile Collaboration: A Survey of Intelligent Nursing Robots Research. Frontiers in Public Health. 12. 1368805. 10.3389/fpubh.2024.1368805 (Peer review, SCI, JCR Q2, IF=3.0, First Author)
-- (10)Boyuan Wang*, & Xuan Hua. (2025). Research on Multi-source Perception Active Disease Early Warning System Based on IoT, LLMs and Federated Learning Technology. Cluster Computing (Peer review, SCI, JCR Q1, IF=3.6, First Author & Corresponding Author)
-- (11)Wong K, Wang B, Hsieh K, Hon C, Zeng Z, Ngai L, Liu Z, Wang Y, Hon S, Lao H, Lu G. Text analysis of Macao's COVID-19 prevention and control policies: discussion on strategy evolution and public health capabilities. J Thorac Dis. 2024 Jan 30;16(1):632-644.  (SCI, IF=2.1, Second Author)
-- (12)Peilin Wu, & Boyuan Wang*. (2025). Research on the Active Health Management Intelligent Assistance System Integrating Big Language Model and Traditional Chinese Medicine. In 2025 2nd International Conference on Image Processing and Artificial Intelligence (ICIPAI2025) (Accepted). (EI Conference Paper, Corresponding Author)
-- (13)Tang B, Gao B, Tang L, Li Y, Xiong X, Wang B*, Xu Z*, Xiao G* and Xiao Z* (2025) Comparative study on the effect of different high-frequency chest wall oscillation and back patting modes on sputum excretion in patients with severe pneumonia. Frontiers in Medicine. 12:1558861.
-- (14)Yan Zhang, Boyuan Wang*, Jimei Li. Research on the identification of ethnic building facades in the Kangba region of Sichuan based on the Swin Transformer visual model. Scientific Reports 2024, DOI: 10.1038/s41598-024-78774-9 (SCI, JCR Q1, IF=3.8, Corresponding Author)
-- (15)Qingfeng Tian, Boyuan Wang*, & Shanquan Chen. (2025). Large Language Models in Nutritional Recognition: A Comprehensive Review of Applications. In 2025 The 10th International Conference on Computer and Communication Systems (Accepted). (EI Conference Paper, Corresponding Author)
-- (16)H. Zhang, B. Wang, Y. Luo, Y. Li, C. Cai, L. Huang, B. He, J. Cai, Z. Li, A. Mai, and Y. Guo, “Association of pet-keeping in home with self-reported asthma and asthma-related symptoms in 11611 school children from China,” Journal of Asthma, vol. 58, no. 12, pp. 1555–1564, Dec. 2021. (SCI, IF=1.7, Second Author)
-- (17)Liang J, Liu R, He W, Zeng Z, Wang Y, Wang B, Liang L, Zhang T, Chen CLP, Chang C, Hon C, Lau EHY, Yang Z, Tong K. Infection rates of 70% of the population observed within 3 weeks after release of COVID-19 restrictions in Macao, China. J Infect. 2023 Apr;86(4):402-404.(SCI,  IF=38.637)
-- (18)Donghui Zhu, Daming Liu, & Boyuan Wang. (2025). VLM - TD: A visual language model for transmission defects with integrated link attention. In 2025 The 10th International Conference on Computer and Communication Systems (Accepted). (EI Conference Paper)
-- (19)H. Liang, W.-L. Wu, Y.-H. Zhang, S.-J. Zhou, C.-Y. Long, J. Wen, B.-Y. Wang, Z.-T. Liu, C.-Z. Zhang, P.-P. Huang, N. Liu, X.-L. Deng, and F. Zou, “Levels, temporal trend and health risk assessment of five heavy metals in fresh vegetables marketed in Guangdong Province of China during 2014 –2017, ” Food Control, vol. 92, pp. 107 – 120, Oct. 2018. (SCI)
-- (20)Q. Zhou, W.-L. Wu, C.-Q. Lin, H. Liang, C.-Y. Long, F. Lv, J.-L. Pan, Z.-T. Liu, B.-Y. Wang, X.-F. Yang, X.-L. Deng, and A.-M. Jiang, “Occurrence and dietary exposure assessment of pentachlorophenol in livestock, poultry, and aquatic foods marketed in Guangdong Province, China: Based on food monitoring data from 2015 to 2018, ” Journal of Food Science, vol. 86, no. 3, pp. 1132 – 1143, Mar. 2021. (SCI)
-Wang, Boyuan, Hai Lin, and Shenglin Xia. "Design of an AI Health Risk Assessment System for Dietary Hygiene of Key Groups Based on IoT Wearable Devices." Journal of Artificial Intelligence Practice 5.3 (2022): 25-31.
+项目负责人
 
-Chinese Core Journal Papers:
-- (22)Wang Boyuan, Chen Xiawei, Li Xiao, Liu Yang, Huang Guoxian, Li Binglie, Chen Zilong, Cen Yingjian, Luo Yijun. "Design of a Foodborne Disease Early Warning System Based on Regional Health Information Platform." Chinese Journal of Food Hygiene, 2019, 31(4): 379-384.
-- (23)Wang Boyuan, Su Buyu, Chen Xiawei, Xiao Xinn. "Design of a Food Safety Risk Monitoring Information Platform." Journal of Medical Informatics, 2021, 42(03): 73-77.
-- (24)Wang Boyuan, Guo Yunchang, Xiao Xinn, Liu Yang. "Framework Design of Provincial and Municipal Foodborne Disease Active Mining Information Platforms." Journal of Food Safety and Quality Testing, 2020, 11(24): 9457-9462.
-- (25)Wang Boyuan, Liu Yang, Xiao Xinn, Chen Xiawei, He Bin, Li Zhuozhang, Liu Jiahui. "Design of a Foodborne Disease Information Monitoring and Mining System Based on the 'Health Regional Platform'." Journal of Food Safety and Quality Testing, 2019, 10(20): 7064-7070.
-- (26)Wang Boyuan, Cen Yingjian, Xiao Xinn, Guo Lixia, Liu Yang, Li Xiao. "Spatial Analysis of Grain and Grain Products Food Safety in Zhongshan City Based on the Getis-Ord Gi* Method." Journal of Food Safety and Quality Testing, 2019, 10(08): 2425-2428.
-- (27)Wang Boyuan, Chen Xiawei, Cen Yingjian, Xiao Xinn, Liu Yang, Li Xiao. "Analysis of Supervision and Sampling Results and Spatial Distribution Patterns of Edible Oils, Fats, and Their Products in Zhongshan City from 2015 to 2018." Journal of Food Safety and Quality Testing, 2019, 10(04): 1093-1099.
-- (28)Chen Xiawei, Wang Boyuan* (Corresponding Author), Cen Yingjian, Li Xiao. "Current Status and Prospects of Food Safety Risk Early Warning Based on Machine Learning." Journal of Medical Informatics, 2019, 40(03): 56-61.
-- (29)Wang Boyuan, Xiao Xinn. "Spatial Distribution Characteristics and Correlation Analysis of Medical and Health Resources in Guangdong Province." Chinese Journal of Health Information Management, 2018, 15(06): 694-699. (Third Prize for Outstanding Natural Science Papers at the Municipal Seventh Natural Science Conference - Municipal Science and Technology Association)
-- (30)Wang Boyuan, Xiao Xinn, Guo Lixia, Cen Yingjian, Liu Yang, Chen Xiawei, Li Xiao. "Design of a Food Safety Spatiotemporal Early Warning Information System Based on Multi-Source Data." Journal of Food Safety and Quality Testing, 2018, 9(24): 6551-6556.
-- (31)Li Binglie, Wang Boyuan* (Corresponding Author), Qian Feng, Chen Xueqin, Luo Le, Tu Ji, Cen Xiaomei, Li Zhuozhang. "Design of a Disease Active Surveillance System Based on the Prefectural-Level Regional Health Information Platform." Journal of Medical Informatics, 2018, 39(09): 16-19.
-- (32)Wu Yanjia, Liu Xin, Li Lei, Wang Boyuan, Wang Dequan. "Spatiotemporal Clustering Analysis of Hand, Foot, and Mouth Disease in Zhongshan City from 2013 to 2018." Chinese Journal of Disease Control and Prevention, 2021, 25(09): 1078-1084.
-- (33)Luo Le, Fang Yueyi, Wang Man, Wang Boyuan, Mao Yunxia. "Application of Joint Hospital Clonorchis sinensis Surveillance and Spatial Interpolation Analysis." Tropical Medicine Journal, 2020, 20(10): 1352-1354+1399.
-- (34)Tan Ye, Zhang Han, Li Yinglai, Huang Lili, Chen Yuyan, Wang Boyuan. "Analysis of the Status of Town-Level Disease Prevention and Control Centers in Zhongshan City." South China Journal of Preventive Medicine, 2019, 45(06): 522-524+555.
-- (35)Liu Qiuming, Yuan Zhanhong, Wu Canquan, Wang Boyuan, Zheng Yuekang, Qiu Qilin. "Molecular Typing and Distribution Characteristics of Legionella pneumophila in Cooling Tower Water of Central Air Conditioning in Zhongshan City from 2012 to 2018." Journal of Public Health and Preventive Medicine, 2020, 31(03): 84-89.
-- (36)Chen Xiawei, Cai Chunsheng, He Bin, Cao Shanshan, Guo Yan, Zheng Yuekang, Ou Jinjie, Wang Boyuan. "Epidemiological Analysis and Molecular Tracing of a Foodborne Disease Outbreak Caused by Enterococcus faecium." Chinese Journal of Food Hygiene, 2020, 32(01): 99-102.
+研究方向：旨在利用人工智能（AI）技术和物联网（IoT）技术为中老年人群和慢性疾病患者提供膳食营养评估和饮食管理服务。项目将融合图像识别、语音识别与自然语言处理等多模态信息，通过手机摄像头拍摄食物照片识别食物种类及分量，收集用户口头反馈并理解文字输入的饮食记录，基于用户的个人健康状况、年龄、性别等因素，结合营养学知识和专家意见，设计个性化的营养评估和饮食建议算法。
 
-Participated in the Writing of Three Professional Books:
-- (1)"Comprehensive Analysis Methods and Applications of Food Safety Risk Monitoring Data," Science Press (ISBN: 978-7-03-057689-7), Deputy Editor.
-- (2)"Practical Spatial Statistics," Science Press (ISBN: 978-7-03-055297-6), Member of the Editorial Board, Responsible for Writing Content on Spatial Autocorrelation Analysis.
-- (3)"Food Safety Risk Monitoring and Information System Construction," China Population Press (ISBN: 978-7-5101-3355-8), Member of the Editorial Board.
+- 2019 年市级科研项目
 
-Obtained One National Utility Model Patent and One Software Copyright:
+基于“健康某市区域平台”的重点人群食源性疾病自动监测识别核心技术和早期暴发预测机器学习模型研究
+（2019B1106）
 
-"An Intelligent Wristband for Food Safety Risk Early Warning," Utility Model, Inventor: Wang Boyuan.
+项目负责人
 
-"Foodborne Disease Toxin AI Identification and Prevention Mobile Software V1.0," Software Copyright, Copyright Holder: Wang Boyuan.
+研究方向：基于市区域卫生信息平台研究重点人群食源性疾病散发和暴发自动监测识别技术，实现重点人群食源性疾病信息自动采集，并与市人口、环境、学校卫生、公共场所卫生、食品污染等自然环境和社会环境的影响因子进行整合，应用机器学习方法建立符合市地理和社会环境的重点人群食源性疾病大规模暴发预测模型。
 
-Experience
+- 2023年度深圳市稳定支持计划面上项目基础研究专项<自然科学基金>
+
+基于大模型的食品营养智慧化分析模型研究 
+
+课题参与（排名第二）
+
+研究方向：本研究项目致力于开发一种基于多模态大模型的食品营养智慧化分析模型，利用预训练的多模态大模型通过LoRA（Low-Rank Adaptation）等技术进行微调，集成食物图像、食谱及营养成分信息；改进食品营养推理算法，使其能依据用餐照片及用户的自然语言提示词给出个性化的营养建议；并持续完善评估指标体系，开展初步评估测试。聚焦于持续学习（CL）技术的研究，提出持续适应新食品类型的持续学习方案。本人负责视觉多模态大模型人工智能算法构建和模型性能评估。
+
+- 2024年 国家卫生健康委员会 直属研究所
+
+《检验检查结果智能互认应用研究项目-常见慢病指标维生素 D 的检验结果智能互认应用研究》  课题参与（排名第三）
+ 
+- 2024年国家卫生健康委(省部级课题)
+
+《健康引领培育食品产业新质生产力的研究——主动健康食品新质生产力研究》                 课题参与（排名第五）
+
+- 2024年国家卫生健康委(省部级课题)
+
+《基于新兴技术的食品安全与营养健康科普策略研究——以粤港澳大湾区的先进经验为例》       课题参与（排名第五）
+
+- 2021 年广东省
+
+智慧化多点触发疾病防控预警系统项目建设工程   
+
+技术专家
+
+研究方向：中国十大数字健康示范案例系统建设经验：本人2020年11月-2021年12月作为核心技术骨干在广东省疾病预防控制中心抽调参与广东省智慧化多点触发预警信息系统（粤政数函[2020]727号，广东省政府重点项目，投资经费8000万元）建设工作，负责其中新型冠状病毒人工智能（AI）预警模型设计，开展了基于人工智能的广东省多点触发智慧化新冠预警功能、多点触发传染病预警体系建设。广东省疾病预防控制中心专门对我负责的工作进行了表彰。该项目被国家卫生健康委评选为2022年的中国十大数字健康示范案例之一。作为主要完成人，设计了广东省新型冠状病毒（COVID-19）、病毒感染性腹泻、不明原因肺炎、登革热、肝吸虫病、流感、流行性乙脑、人感染禽流感、食源性疾病、手足口病、鼠疫、丝虫病、土食源寄生虫病、蚊媒传染病（其他）等41类预防控制疾病的多点触发信息化预警体系，为全国首个。
+
+科研成果
 -
 
-Present:
+以第一作者/通讯作者/共同作者等身份在全球电子医学顶尖期刊（Nature portfolio系列 , 中科院一区，影响因子IF=15，医学Top期刊）等SCI期刊、会议和中文期刊上录用共计38余篇 
 
-Director of the Medical Artificial Intelligence Technology Innovation Center, Zhuhai Fudan Innovation Institute, a collaborative research institution affiliated with Fudan University
+近年专注于论文辅导，培养多名本科生作为第一作者成功发表JCR Q1区的SCI论文（辅导大三学生发表影响因子5的一作sci论文），以鼓励型培养方式激发学生科研热情，与学员一同挖掘创新点，手把手带领学员做实验写作，多次获得学员好评。辅导学员发表的部分论文如下:
 
-- Responsible for establishing an interdisciplinary AI research and innovation platform within the institute to facilitate the transformation of Fudan University's high-level research achievements into practical applications, promoting the deep integration of AI and medical fields.
-- Guiding the team in developing new AI algorithms and technologies, utilizing multimodal mega-models (LLMs) for disease diagnosis to enhance diagnostic accuracy and efficiency, and addressing complex issues in the mega-model domain, such as AI disease diagnosis, treatment planning, and personalized medicine.
-- Translating Fudan University's latest research findings in AI and medicine into practical technologies for medical applications to improve the quality and efficiency of healthcare services.
-- Promoting interdisciplinary collaboration and project applications involving computer science, AI, biomedical engineering, and clinical medicine to form multidisciplinary research teams.
+（二）参与撰写专业领域论著 3 本：
 
-AI expert in National Health Commission's Hospital Management Institute R&D projects;involved in multiple national key R&D project applications and management:
+- (1)《食品安全风险监测数据综合分析方法及应用》 科学出版社（ISBN：978-7-03-057689-7）， 副主编。
+- (2)《空间统计实战》 科学出版社（ISBN：978-7-03-055297-6），编委会成员， 负责书中空间自相关分析等内容 编写。
+- (3)《食品安全风险监测与信息化体系建设》中国人口出版社（ISBN：978-7-5101-3355-8），编委会成员。
 
-- National Key R&D Program Project: "Comprehensive Management Technologies and Demonstration Research for Multimorbidity in the Elderly"
-- National Key R&D Program Project: "Development of Intelligent Nursing Robots for Critical Care", focusing on the design, development, and application of smart back-patting and sputum drainage robots for intensive care units (ICUs), based on AI technologies aimed at reducing the workload of healthcare professionals and improving patient care quality.
-- National Key R&D Program Project: "New Technologies and Reference Systems for Clinical Laboratory Testing", involving the development of novel diagnostic techniques and the establishment of a laboratory testing knowledge graph. This includes extracting information from large volumes of literature and databases to construct a comprehensive knowledge graph encompassing clinical testing standards, disease relationships, and other relevant data, with the goal of enhancing the accuracy and reliability of test results.
-- National Key R&D Program Project: "Application and Demonstration of Dietary Intervention and Evaluation Schemes for Functional Decline in the Elderly", aimed at addressing functional decline in older adults by designing standardized models for continuous care service centers.
+（三）获得国家实用新型专利 1 项、软件著作权 1 项，参与国家级包括成果1项，通报表扬2项。
 
-2021.09-2024.08:
+- (1)“一种用于食品安全风险预警的职能手环 ”，实用新型
+- (2)“食源性疾病毒物人工智能识别与预防移动端软件 V1.0 ”，软件著作权
+- (3)疫情防控期间（2020年）单位先进个人通报表扬1项，广东省疾病预防控制中心个人表扬1项。
 
-During PhD study, I participated in relevant scientific research. I was a team member of the University's Artificial Intelligence and Medical Big Data Laboratory and a participant in the national COVID-19 prediction programme. I was engaged in infectious disease prediction and warning, big data analysis, artificial intelligence technology work related to projects at the University, the Guangzhou Laboratory, and the First Affiliated Hospital of Guangzhou Medical University, as well as the Macau Foundation for Development of Science and Technology (FDCT) projects. I also participated in joint research project applications between mainland China, Macau, and "Belt and Road" countries. The projects I applied for from the Macau Foundation for Development of Science and Technology totaled nearly ten million in value.
-
-2020.10-2021.09:
-
-Technical Expert, Multi-point Trigger Information Special Team,Guangdong Provincial Center for Disease Control and Prevention
-During the pandemic, I was a technical core team member for Guangdong Province's Intelligent Multi - point Trigger Early-warning Information System (YuezhengnumLetter [2020] No. 727, a key Guangdong Provincial Government project with an investment of 80 million yuan). I participated in overall project management and was responsible for the AI - based early - warning and prediction module. The project established an AI - powered multi - point trigger early - warning system for 41 categories of diseases. It was the country's first such early - warning system. For my work, I was commended by the provincial CDC. The project was awarded one of the Top Ten Digital Health Demonstration Cases of 2022 by the National Health Commission.
-
-Research Directions in Large Model Technology:
--
-1.Large Language Model (LLM) Fine-Tuning: Developing and optimizing large pre-trained language models tailored for the healthcare domain to improve performance in medical text understanding, question answering, and generation. Using transfer learning techniques to fine-tune pre-trained models for specific medical tasks such as disease prediction and case analysis. Enhancing semantics specifically for medical terminology and context to increase model professionalism and accuracy.
-
-2.Multimodal Model Optimization: Designing large-scale pre-trained models capable of processing multimodal data including text, images, and audio to better simulate complex clinical environments. Applying cross-modal representation learning techniques to capture correlations among different data types and improve overall model performance.
-
-3.Distributed Computing: Utilizing federated learning (FL)-based LLM technologies to build global models from distributed data sources while protecting user privacy. Implementing model training and updates across heterogeneous devices to ensure efficient operation on various edge devices. Combining FL techniques allows institutions to collaboratively train models without sharing raw data, enhancing both privacy protection and generalization capabilities.
-
-Platform experiences
+国家、省市信息化平台建设经验
 -
 
-National-Level Information Design and Planning Projects:
+（一）国家级信息化设计、规划项目：
 
-1.The "12th Five-Year" National Informatization Project for Electronic Government Services: "National Health Security Informatization Project". Tasks undertaken: drafting project proposals and feasibility study reports for the Food Safety Risk Assessment Business Application Platform, as well as conducting demand analysis and system design.
+(1)国家“十二五”电子政务信息化工程“全民健康保障信息化工程”
 
-2.The "National Food Safety Information Platform Framework Design" Project of the China Food and Drug Administration. Tasks undertaken: overall design, demand analysis, and system design.Tasks undertaken: overall design, demand analysis, and system design.
+项目中承担的任务：食品安全风险评估业务应用平台需求分析、系统设计、项目建议书和可行性研究报告起草申报。
 
-Provincial and Municipal - Level Information System Projects Participated In:
+（2）国家食品药品监督管理总局“国家食品安全信息平台框架设计”项目
 
-1.Development of Guangdong Province's multi - point triggered intelligent infectious disease early - warning information system (responsible for early - warning/prediction - related system design and project management).
+项目中承担的任务：总体设计、需求分析、系统设计等
 
-2.The provincial food safety risk monitoring information system project.
+（二）主持及参与的国家级信息系统建设
 
-3.The Shenzhen food safety risk monitoring information system project.
+(1)全国食品污染物监测数据汇总系统平台、全国食品微生物风险监测数据汇总系统平台，国家、省、市、县，四级直报信息系统升级改造项目。
 
-4.The active disease surveillance system project based on the municipal regional health information platform.
+(2)全国食源性疾病监测报告系统项目升级改造，性能和安全性测试项目。
+
+(3)食品安全国家标准管理系统建设和升级项目。
+
+（三）参与的省市级信息系统建设：
+
+(1)广东省多点触发智慧化传染病预警信息系统建设（负责其中预警/预测部分系统设计和项目管理）
+
+(2)省食品安全风险监测信息系统项目
+
+(3)深圳市食品安全风险监测信息系统项目
+
+(4)基于地级市区域卫生信息平台的疾病主动监测系统项目
+
+
+大模型技术研究方向
+-
+
+(1)大语言模型 (LLM) 微调：开发优化针对医疗领域的大型预训练语言模型，提高模型在医疗文本理解、问答和生成方面的性能；利用迁移学习技术，在特定医疗任务上对预训练模型进行微调，以适应不同的应用场景，例如疾病预测、病例分析等；针对医学专业术语和上下文进行语义增强，以提高模型的专业性和准确性。
+
+(2)多模态大模型优化：设计处理文本、图像、音频等多种模态数据的大规模预训练模型，以便更好地模拟临床环境中的复杂情况；应用跨模态表示学习技术，以捕捉不同数据类型之间的关联性，从而提高模型的整体表现。
+
+(3)分布式计算：利用基于联邦学习（FL）的LLM技术，在保护用户隐私的同时，从分散的数据源中构建全局LLM模型；实现异构设备上的模型训练和更新，确保模型能够在不同类型的边缘设备上高效运行；结合联邦学习技术，使得各个机构能够在不共享原始数据的情况下共同训练模型，提高了系统的隐私保护能力和泛化能力。
+
+
+
 
