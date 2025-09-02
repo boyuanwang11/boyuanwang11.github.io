@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Distinguished Professor
-- Director, Medical Artificial Intelligence Innovation Center, Zhuhai Fudan Innovation Institute (Local Collaborative Institution of Fudan University)
-- Distinguished Professor, Department of Laboratory Medicine, Shanghai Mental Health Center
-- Council Member of the Medicinal and Food Optimization Committee and Deputy Secretary-General of the Spatial Statistics Division, Chinese Association for Applied Statistics (CAAS)
-- AI Review Expert, National Institute of Hospital Administration, China
-- Postdoctoral Fellow, City University of Hong Kong
-- External AI Expert, iFLYTEK Healthcare Technology Co., Ltd.
-- Member & Senior Ethics Reviewer, Municipal Medical Ethics Review Committee, Beijing
-- Chief Technology Officer & Chief Scientist, GemSpark (Shenzhen) Artificial Intelligence Technology Co., Ltd.
-- PhD in Artificial Intelligence, Senior Engineer
+王老师 主任
+ 特聘教授，人工智能博士生导师，高级工程师，人工智能博士
+- 复旦大学科研机构（地方合作机构）
+某复旦创新研究院 医学人工智能科技创新中心 主任
+- 北京市属某重点高校大学 人工智能与计算机学院 特聘教授
+- 上海市某卫生中心检验科 特聘教授
+- 北京市某市属医院医学伦理审查委员会 委员
+- 国家卫生健康委员会某研究所协作人员、人工智能评审专家
+- 中国现场统计研究会（CAAS） 医药食品优化专业委员会理事、空间统计分会副秘书长，国内某著名医疗科技有限公司 外聘人工智能专家
 
-Email: boyuanwang@fudan-zhuhai.org.cn
+
+Email: boyuanwang@fudan-zhuhai.org.cn 微信: wangaijia777
 
 Academic Research Profile:
 
